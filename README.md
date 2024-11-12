@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uDingani
-- 👀 I’m interested in building software for Material Science and Engineering 
-- 🌱 I’m currently learning an Msc. in Metallurgical Engineering and Python
-- 💞️ I’m looking to collaborate on Engineering software
+- 👀  I'm a web developer with a focus on backend engineering, skilled in Django frameworks, database management, and web server deployment to create secure and scalable applications. 
+- 🌱 I’m currently learning an Msc. in Metallurgical Engineering
+- 💞️ I’m looking to collaborate on software development projects 
 - 📫 How to reach me busisod@gmail.com 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love porridge  
